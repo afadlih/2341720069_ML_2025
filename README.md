@@ -425,7 +425,7 @@ Semua materi praktikum mengacu pada modul resmi dari Jurusan Teknologi Informasi
 
 ---
 
-## Konsep Machine Learning
+## Konsep Machine Learning yang dipelajari
 
 ### 1. Data Processing
 - Data cleaning
@@ -466,18 +466,18 @@ Semua materi praktikum mengacu pada modul resmi dari Jurusan Teknologi Informasi
 
 ##  Learning Outcomes
 
-Setelah menyelesaikan jobsheet-jobsheet ini, saya telah mampu:
+Setelah menyelesaikan jobsheet-jobsheet ini mampu :
 
-1. ✅ Memahami konsep fundamental Machine Learning
-2. ✅ Mengimplementasikan berbagai algoritma ML dari scratch dan dengan library
-3. ✅ Melakukan preprocessing dan feature engineering
-4. ✅ Membuat dan mengevaluasi model ML
-5. ✅ Mengoptimalkan performa model
-6. ✅ Mengimplementasikan Deep Learning untuk Computer Vision
-7. ✅ Menerapkan Transfer Learning
-8. ✅ Melakukan Text Processing dan NLP
-9. ✅ Membangun model Sentiment Analysis
-10. ✅ Memvisualisasikan dan menginterpretasikan hasil
+1.  Memahami konsep fundamental Machine Learning
+2.  Mengimplementasikan berbagai algoritma ML dari scratch dan dengan library
+3.  Melakukan preprocessing dan feature engineering
+4.  Membuat dan mengevaluasi model ML
+5.  Mengoptimalkan performa model
+6.  Mengimplementasikan Deep Learning untuk Computer Vision
+7.  Menerapkan Transfer Learning
+8.  Melakukan Text Processing dan NLP
+9.  Membangun model Sentiment Analysis
+10. Memvisualisasikan dan menginterpretasikan hasil
 
 ---
 
